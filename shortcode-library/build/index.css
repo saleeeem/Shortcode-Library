@@ -1,0 +1,29 @@
+/*!********************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/editor.css ***!
+  \********************************************************************************************************************************************************************/
+.event-card-main {
+    border-radius: 5px;
+    /* box-shadow: 0 2px 10px rgb(0 0 0 / 30%); */
+    border: 1px solid;
+    /* max-width: 600px;
+    width: 100%; */
+    position: relative;
+    padding: 20px 30px;
+    background: #fff;
+    margin: auto;
+}
+body .wp-block-shortcode-directory-shortcode-block-list select{
+    max-width: 100%;
+    width: 100%;
+    line-height: 26px !important;
+    padding: 0px 10px;
+    min-height: 40px !important;
+
+}
+.event-card-main h5{margin: 20px 0px;}
+
+
+
+
+
+/*# sourceMappingURL=index.css.map*/
